@@ -1,0 +1,25 @@
+Feedback Hito 1 - Situación Mundial
+
+Buen trabajo, se cumple con todos los requerimientos.
+
+1. Crear una estructura básica con HTML para el proyecto y cargar la librería de bootstrap o similar, además de jQuery. (1 Punto)
+
+    Puntaje obtenido: 1
+
+2. Consumir la API http://localhost:3000/api/total con JavaScript o jQuery. (1 Punto) 
+
+    Puntaje obtenido: 1
+
+3. Desplegar la información de la API en un gráfico de barra que debe mostrar sólo los países con más de 10000 casos activos. (4 Puntos)
+
+    puntaje obtenido: 4
+
+4. Desplegar toda la información de la API en una tabla. (1 Punto) 
+
+    puntaje obtenido: 1
+
+5. Cada fila de la tabla debe incluir un link que diga "ver detalle", al hacer click levante un modal y muestre los casos activos, muertos, 
+recuperados y confirmados en un gráfico, para obtener esta información debes llamar a la API http://localhost:3000/api/countries/{country} 
+al momento de levantar el modal. (3 Puntos)
+
+    puntaje obtenido: 3
